@@ -1,0 +1,3 @@
+C:/Users/Gabeews/Desktop/Trabalho Jose Rui/cmake-build-debug/CMakeFiles/Trabalho_Jose_Rui.dir
+C:/Users/Gabeews/Desktop/Trabalho Jose Rui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gabeews/Desktop/Trabalho Jose Rui/cmake-build-debug/CMakeFiles/rebuild_cache.dir

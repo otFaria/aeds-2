@@ -1,0 +1,1 @@
+Para criar uma classe, sempre terá que usar um arquivo de "cabeçalho" e um arquivo de "implementação", por exemplo a classe Motor, precisa do arquivo Motor.h e o Motor.cpp, sendo assim o Motor.h fica responsável pela estrutura da classe e o Motor.cpp pela implementação dos métodos presente no arquivo ".h".
